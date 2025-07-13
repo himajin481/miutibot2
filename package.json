@@ -1,0 +1,17 @@
+{
+  "name": "minecraft-discord-bot",
+  "version": "1.0.0",
+  "description": "マイクラ身内サーバー専用の便利Discord Bot",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["discord", "bot", "minecraft", "wish", "座標"],
+  "author": "暇人",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1"
+  }
+}
